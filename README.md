@@ -18,7 +18,7 @@ A fun and visually appealing **Blackjack** game built using **Python** and **Tki
 
 ## 📸 Game Preview
 
-> Coming soon: Add screenshots here by uploading images and linking them like:
+> Coming soon
 ---
 
 ## 🎮 How to Play
